@@ -25,7 +25,7 @@ I'm a Software Engineer passionate about Art and Coding. I enjoy Hiking, dancing
 
 ## Skills
 - Programming Languages: Python, JS
-- Technologies: Flask, REST API
+- Technologies: Flask, RESTful API,SQL, SQLite
 
 ## Projects
 Here's a project I'm proud of:
