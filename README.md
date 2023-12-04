@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 I'm a Software Engineer passionate about Art and Coding. I enjoy Hiking, dancing, and exploring new technologies.
 
 - 🌱 I’m currently learning React.
-- 💼 I'm working on C.V Translator.
+- 💼 I'm working on a C.V Translator project.
 - 💬 Ask me about Python, Flask, JS, Web APIs, and Web Development.
 
 ## Skills
