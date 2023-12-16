@@ -26,6 +26,15 @@ I'm a Software Engineer passionate about Art and Coding. I enjoy Hiking, dancing
 ## Skills
 - Programming Languages: Python, JS
 - Technologies: Flask, RESTful API, SQL, SQLite, HTML, CSS
+- 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+          
+## Skills and Languages
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
+  <img src="URL_TO_OTHER_SKILL_ICON" width="50" height="50" alt="Skill Name" />
+  <!-- Add other skill icons similarly -->
+</p>
 
 ## Projects
 Here's a project I'm proud of:
