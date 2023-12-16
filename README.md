@@ -34,7 +34,7 @@ Here's a project I'm proud of:
 
 ## Find Me Around the Web
 - [LinkedIn](https://www.linkedin.com/in/shalom-avichail/)
-- [Email](shalomavi3@gmail.com)
+- [Email](mailto:shalomavi3@gmail.com)
 <!-- - [Twitter](Your Twitter Profile) -->
 <!-- - [Portfolio/Blog](Your Portfolio/Blog) -->
 
