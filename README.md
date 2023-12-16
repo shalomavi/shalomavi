@@ -29,7 +29,8 @@ I'm a Software Engineer passionate about Art and Coding. I enjoy Hiking, dancing
 
 ## Projects
 Here's a project I'm proud of:
-- [MoviWeb App](https://github.com/shalomavi/moviweb_app) - Brief description.
+- [MoviWeb App](https://github.com/shalomavi/moviweb_app) - Movies Mangament App.
+- [Recipe Keeper App](https://github.com/shalomavi/recipes_app) - Recipes Mangament App.
 
 ## Find Me Around the Web
 - [LinkedIn](https://www.linkedin.com/in/shalom-avichail-b4249912b/)
