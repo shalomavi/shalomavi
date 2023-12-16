@@ -25,7 +25,7 @@ I'm a Software Engineer passionate about Art and Coding. I enjoy Hiking, dancing
 
 ## Skills
 - Programming Languages: Python, JS
-- Technologies: Flask, RESTful API,SQL, SQLite
+- Technologies: Flask, RESTful API, SQL, SQLite, HTML, CSS
 
 ## Projects
 Here's a project I'm proud of:
@@ -34,6 +34,7 @@ Here's a project I'm proud of:
 
 ## Find Me Around the Web
 - [LinkedIn](https://www.linkedin.com/in/shalom-avichail/)
+- [Email](shalomavi3@gmail.com)
 <!-- - [Twitter](Your Twitter Profile) -->
 <!-- - [Portfolio/Blog](Your Portfolio/Blog) -->
 
