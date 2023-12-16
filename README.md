@@ -33,7 +33,7 @@ Here's a project I'm proud of:
 - [Recipes Keeper App](https://github.com/shalomavi/recipes_app) - Recipes Mangament App.
 
 ## Find Me Around the Web
-- [LinkedIn](https://www.linkedin.com/in/shalom-avichail-b4249912b/)
+- [LinkedIn](https://www.linkedin.com/in/shalom-avichail/)
 <!-- - [Twitter](Your Twitter Profile) -->
 <!-- - [Portfolio/Blog](Your Portfolio/Blog) -->
 
