@@ -45,8 +45,8 @@ Here's a project I'm proud of:
 ## Find Me Around the Web  🔗 
 - [LinkedIn](https://www.linkedin.com/in/shalom-avichail/)
 - [Email](mailto:shalomavi3@gmail.com)
+- [Portfolio](https://shalomavi.github.io/)
 <!-- - [Twitter](Your Twitter Profile) -->
-<!-- - [Portfolio/Blog](Your Portfolio/Blog) -->
 
 ## Stats 📊
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shalomavi&show_icons=true&theme=radical)
