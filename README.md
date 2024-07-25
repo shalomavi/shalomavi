@@ -38,7 +38,7 @@ I'm a Software Engineer passionate about Art and Coding. I enjoy Hiking, dancing
 </p>
 
 ## Projects  🚀 
-Here's a project I'm proud of:
+Here are projects I'm proud of:
 - [MoviWeb App](https://github.com/shalomavi/moviweb_app) - Movies Mangament App.
 - [Recipe Keeper App](https://github.com/shalomavi/recipes_app) - Recipes Mangament App.
 
