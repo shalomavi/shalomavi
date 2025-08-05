@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 ## About Me
 I'm a Software Engineer passionate about Art and Coding. I enjoy Hiking, dancing, and exploring new technologies.
 
-- 🌱 I’m currently learning React.
 - 💼 I'm working on a therapists search-by-location project. 
 - 💬 Ask me about Python, Flask, JS, Web APIs, and Web Development.
           
