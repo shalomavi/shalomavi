@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I'm a Software Engineer passionate about Art and Coding. I enjoy Hiking, dancing, and exploring new technologies.
 
 - 💼 I'm working on a therapists search-by-location project. 
-- 💬 Ask me about Python, Flask, JS, Web APIs, and Web Development.
+- 💬 Ask me about TypeScript, React, Python, Flask, Supabase, Web APIs, and Web Development.
           
 ## Skills and Languages ✨
 <p align="center">
@@ -33,6 +33,12 @@ I'm a Software Engineer passionate about Art and Coding. I enjoy Hiking, dancing
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" width="50" height="50" alt="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" height="50" alt="Vue" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="50" height="50" alt="Vite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="50" height="50" alt="Supabase" />
 </p>
 
 ## Projects  🚀 
