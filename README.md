@@ -71,9 +71,7 @@ I'm a Software Engineer passionate about Art and Coding. I enjoy Hiking, dancing
 
 ## Projects  🚀 
 Here are projects I'm proud of:
-- [MoviWeb App](https://github.com/shalomavi/moviweb_app) - Movies Mangament App.
-- [Recipe Keeper App](https://github.com/shalomavi/recipes_app) - Recipes Mangament App.
-- [Fridger](https://github.com/shalomavi/fridger) - Shared shopping list, pantry, and LLM meal suggestions for a 2-person household.
+- [Fridger](https://github.com/shalomavi/fridger) - Shared shopping list, pantry, and LLM meal suggestions for households.
 
 ## Find Me Around the Web  🔗 
 - [LinkedIn](https://www.linkedin.com/in/shalom-avichail/)
