@@ -49,7 +49,7 @@ I build full stack applications and the AI features inside them. My day job is R
 - Gained hands-on experience with ML/AI integrations and real-time databases (Firebase, MongoDB).
 - Helped build an event-based notification system on WebSocket, supporting real-time in-app and email notifications.
 
-### Founder, Adamot Aley (אדמות עלי)
+### Founder, Aley Adamot (עלי אדמות)
 **May 2020 to December 2022**
 - Founded and ran an independent delivery service, managing scheduling, logistics, and customer service end to end.
 - Achieved high customer satisfaction through prompt order fulfillment and efficient delivery.
